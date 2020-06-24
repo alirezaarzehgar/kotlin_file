@@ -1,4 +1,4 @@
-![status](https://github.com/alirezaarzehgar/kotlin_file/image/stat.png)
+![status](https://github.com/alirezaarzehgar/kotlin_file/blob/master/image/stat.png)
 
 # file library for kotlin native
 
